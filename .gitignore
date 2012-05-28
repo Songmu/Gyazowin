@@ -8,3 +8,4 @@ output/
 *.suo
 *.ncb
 gyazowin.vcproj.*
+gyazowin.vcxproj*
